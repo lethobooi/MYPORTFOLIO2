@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myportfolio",
+    "description": "",
+    "home_page_url": "https://lethobooi.github.io/MYPORTFOLIO2",
+    "feed_url": "https://lethobooi.github.io/MYPORTFOLIO2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lethu booi"
+    },
+    "items": [
+    ]
+}
